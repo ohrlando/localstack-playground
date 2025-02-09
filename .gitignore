@@ -1,0 +1,10 @@
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/test-step-function.iml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+**/**.pyc
+**/**.zip
+**/*venv
+**/lambda_deploy
